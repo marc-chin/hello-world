@@ -1,5 +1,6 @@
 import streamlit as st
 
+#Creating a new branch is quick.
 st.title("Hello Streamlit!")
 st.write("This is a simple Streamlit app.")
 
