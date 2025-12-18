@@ -12,4 +12,4 @@ if st.button('Say hello'):
 else:
      st.write('Goodbye')
      
-#Creating a new branch is quick & simple.
+#Creating a new branch is quick and simple.
